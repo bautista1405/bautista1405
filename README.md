@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on the front-end of web apps, mobile apps and gaming projects.
 - 📫 Reach me at aramendia30@gmail.com
 - I write articles and facilitate free courses on https://tecnovizion.com, my personal blog project.
-- Another tools I'm familiar with: Git, AWS, Node.js, Illustrator, SQL, Wordpress.
+- Another tools I'm familiar with: Git, AWS, Node.js, SQL, Typescript, Bootstrap.
 
 <!---
 bautista1405/bautista1405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
