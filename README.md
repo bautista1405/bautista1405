@@ -2,12 +2,12 @@
 
 
 
-- I'm a technology enthusiast 👀 and web developer.
+- I'm a technology enthusiast 👀 and software developer.
 - 🌱 I’m currently learning React, and design with Figma.
 - 💞️ I’m looking to collaborate on the front-end of web apps, mobile apps and gaming projects.
 - 📫 Reach me at aramendia30@gmail.com
 - I write articles and facilitate free courses on https://tecnovizion.com, my personal blog project.
-- Another tools I'm familiar with: Python, Git, AWS, Node.js, SQL, Typescript, Bootstrap.
+- Another tools I'm familiar with: Python, Git, AWS, Node.js, SQL, Bootstrap.
 
 <!---
 bautista1405/bautista1405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
