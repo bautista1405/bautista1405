@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React and Next.js
 - 💞️ I’m looking to collaborate on the front-end of web apps, mobile apps and gaming projects.
 - 📫 Reach me at aramendia30@gmail.com
-- Another tools I'm familiar with: Tailwind, Git, Bootstrap.
+- Another tools I'm familiar with: Tailwind, Git, Bootstrap, Node.
 
 <!---
 bautista1405/bautista1405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
