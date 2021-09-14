@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bauti!</h1>
-<h3 align="center">I'm a technology enthusiast 👀 and software developer.</h3>
+<h3 align="center">I'm a technology enthusiast 👀 and web developer.</h3>
 
 - 🌱 I’m currently learning **React and Next.js**
 
