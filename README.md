@@ -7,7 +7,7 @@
 
 - 📫 Reach me **at aramendia30@gmail.com**
 
-- Portfolio and Blog --> https://bautista-aramendia-portfolio.vercel.app/
+- Portfolio and Blog => https://bautista-aramendia-portfolio.vercel.app/
 
 
 <h3 align="left">Languages and Tools:</h3>
