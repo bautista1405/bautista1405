@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bauti!</h1>
 <h3 align="center">I'm a technology enthusiast 👀 and web developer.</h3>
 
-- 🌱 I’m currently learning **React and Next.js**
-
-- 👯 I’m looking to collaborate on **the front-end of web apps, mobile apps and gaming projects.**
+- 🌱 I’m currently learning **Next.js and Solidity**
 
 - 📫 Reach me **at aramendia30@gmail.com**
 
