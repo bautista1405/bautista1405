@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bauti!</h1>
 <h3 align="center">I'm a technology enthusiast 👀 and web developer with +3 years of experience.</h3>
 
-- 🌱 I’m a **JavaScript-based developer: Next.js, Node.js, React, TypeScript**. I'm currently learning **Solidity**
+- 🌱 I’m a **JavaScript-based developer: Next.js, Node.js, React, TypeScript**. I'm currently learning **Solidity** and **Golang**
 
 - 📫 Reach me **at aramendia30@gmail.com**
 
