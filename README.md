@@ -1,6 +1,6 @@
 
 <h3>tech enthusiast, web developer, +3 YoE</h3>
 
-- interested in **Rust**, **cryptography**, **ZKP**, **ICS**
+- interested in **Rust**, **cryptography**, **privacy**, **ZKP**, **ICS**
 
-- [Portfolio and Blog](https://www.bautidev.com/)
+- [portfolio | blog](https://www.bautidev.com/)
