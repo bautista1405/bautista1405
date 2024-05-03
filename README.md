@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bauti!</h1>
-<h3 align="center">I'm a technology enthusiast 👀 and web developer with +3 years of experience.</h3>
 
-- 🌱 I’m a **JavaScript-based developer: Node, React, TypeScript**. I'm currently learning **ZKP** with a special interest in **ICS**.
+<h3>tech enthusiast, web developer, +3 YoE</h3>
+
+- 🌱 Interested in **Rust**, **cyrptogtaphy**, **ZKP**, **ICS**
 
 - [Portfolio and Blog](https://www.bautidev.com/)
