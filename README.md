@@ -1,5 +1,5 @@
 
-<h3>tech enthusiast, full stack developer, +3 YoE</h3>
+<h3>full stack developer with +3 YoE</h3>
 
 - interested in math, functional programming, low-level tech and VR
 
