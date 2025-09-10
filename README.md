@@ -1,5 +1,5 @@
 
-<h3>full stack developer</h3>
+<h3>full stack typescript developer</h3>
 
 - interested in math, functional programming, low-level tech and VR
 
